@@ -16,18 +16,26 @@ SO THAT my company can compete with other e-commerce companies.
 - [Description](#description)
 - [User Story](#user-story)
 - [Table of Contents](#table-of-contents)
+- [Video Submission](#video-submission)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
 - [Questions](#questions)
 
 
+## Video Submission
+<img src='assets/images/Screen Shot 2022-07-07 at 12.00.06 PM.png'></img>
+<a href='https://drive.google.com/file/d/1X3V9Trf36IyOIs77OADmiHzBb2M6ekKO/view'>Demonstration</a>
+
 ## Installation
 
-npm init
-npm i sequelize
-npm i mysql2
-npm i dotenv
+`npm init`
+
+`npm i sequelize`
+
+`npm i mysql2`
+
+`npm i dotenv`
 
 
 ## Usage
