@@ -25,7 +25,7 @@ SO THAT my company can compete with other e-commerce companies.
 
 ## Video Submission
 <img src='assets/images/Screen Shot 2022-07-07 at 12.00.06 PM.png'></img>
-<a href='https://drive.google.com/file/d/1X3V9Trf36IyOIs77OADmiHzBb2M6ekKO/view'>Demonstration</a>
+<p><a href='https://drive.google.com/file/d/1X3V9Trf36IyOIs77OADmiHzBb2M6ekKO/view'>Demonstration</a>-- Click the Link to View</p?>
 
 ## Installation
 
